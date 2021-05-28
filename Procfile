@@ -1,1 +1,1 @@
-web: gunicorn easyTasky.wsgi
+web:gunicorn easyTasky.wsgi
