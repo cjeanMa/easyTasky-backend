@@ -62,6 +62,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
+    'https://master.d1rhvqrmguq8t1.amplifyapp.com/',
 ]
 
 ROOT_URLCONF = 'easyTasky.urls'
